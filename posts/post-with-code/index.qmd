@@ -1,0 +1,9 @@
+---
+title: "Analysis of DHS data"
+author: "Seydou TOGUIYENI"
+date: "2024-05-06"
+categories: [code, analysis, R]
+image: "image.jpg"
+---
+
+This was a project using DHS data for Burkina Faso. You can find the project [here](https://demolandscapes.info/burkina-faso/){target="_blank"}

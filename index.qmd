@@ -1,0 +1,24 @@
+---
+title: "Seydou TOGUIYENI"
+image: tof_profil_tog.jpeg
+about:
+  template: jolla
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/toguiyeni
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/seydou-toguiyeni-a6a8aa112/
+    - icon: github
+      text: Github
+      href: https://github.com/mtoguiyeni
+---
+
+Seydou TOGUIYENI est un scientifique des données (Data scientist), biostatisticien et épidémiologiste passionné, actuellement doctorant en santé publique à l'Université Joseph KI-ZERBO. Il possède une vaste expérience dans le domaine de la santé, ayant travaillé pour diverses organisations telles que Terre des hommes, Catholic Relief Services et Save the Children International.
+
+En tant que Data Scientist et Data Project Manager chez Bluesquare, Seydou est chargé de l'évaluation des programmes et de l'analyse de données à grande échelle. Il a également occupé des postes de conseiller technique régional et de coordinateur de programme de santé, démontrant ainsi ses compétences en gestion et en leadership.
+
+Avec une maîtrise en santé publique, biostatistique et épidémiologie, ainsi que plusieurs certifications dans l'analyse de données spatiales et la science des données géospatiales, Seydou est un expert dans l'analyse de données complexes. Il maîtrise également divers outils de visualisation et de gestion de données, tels que Tableau et Python.
+
+Tougi est un leader dans son domaine, toujours désireux de relever de nouveaux défis et d'utiliser ses compétences pour avoir un impact positif sur la santé publique et la recherche. Il est ouvert aux opportunités de collaborer avec des organisations partageant les mêmes idées pour faire avancer la science des données et améliorer la santé mondiale.
