@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Seydou TOGUIYENI",
+    "section": "",
+    "text": "Analysis of DHS data\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nMay 6, 2024\n\n\nSeydou TOGUIYENI\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seydou TOGUIYENI",
+    "section": "",
+    "text": "Seydou TOGUIYENI est un scientifique des données (Data scientist), biostatisticien et épidémiologiste passionné, actuellement doctorant en santé publique à l’Université Joseph KI-ZERBO. Il possède une vaste expérience dans le domaine de la santé, ayant travaillé pour diverses organisations telles que Terre des hommes, Catholic Relief Services et Save the Children International.\nEn tant que Data Scientist et Data Project Manager chez Bluesquare, Seydou est chargé de l’évaluation des programmes et de l’analyse de données à grande échelle. Il a également occupé des postes de conseiller technique régional et de coordinateur de programme de santé, démontrant ainsi ses compétences en gestion et en leadership.\nAvec une maîtrise en santé publique, biostatistique et épidémiologie, ainsi que plusieurs certifications dans l’analyse de données spatiales et la science des données géospatiales, Seydou est un expert dans l’analyse de données complexes. Il maîtrise également divers outils de visualisation et de gestion de données, tels que Tableau et Python.\nTougi est un leader dans son domaine, toujours désireux de relever de nouveaux défis et d’utiliser ses compétences pour avoir un impact positif sur la santé publique et la recherche. Il est ouvert aux opportunités de collaborer avec des organisations partageant les mêmes idées pour faire avancer la science des données et améliorer la santé mondiale."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Analysis of DHS data",
+    "section": "",
+    "text": "This was a project using DHS data for Burkina Faso. You can find the project here"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Seydou TOGUIYENI",
+    "section": "",
+    "text": "![](CV_example_toguiyeni.pdf)"
+  }
+]
